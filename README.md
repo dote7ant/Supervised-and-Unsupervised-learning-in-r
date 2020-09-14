@@ -88,7 +88,7 @@ Install a browser of your choice preferabbly google chrome.
 ## Built With
 
 * [R version 3.6.3]- The R version used in collabs
-* [Google Collabs](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwius97P4tjpAhVwxoUKHU9jDQQQFjAAegQIBhAC&url=https%3A%2F%2Fcolab.research.google.com%2F&usg=AOvVaw3A5aPK2kLFzKOzb6sOckVw) - google collabs notebook
+* [Google Collabs](colab.fan/r) - google collabs notebook
 
 
 
